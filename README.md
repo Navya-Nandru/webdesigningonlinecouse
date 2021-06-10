@@ -23,9 +23,7 @@ this repo contain online web design course using reactjs
 Customer name|Number|Gender|Email|
 -------------|------|------|------
 Nandru Navya|96032698784|female|navya.nandru@gmail.com
-Example program using C language
---------------------------------
-'''c
+```c
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -38,7 +36,7 @@ c=a+b;
 printf("sum of two numbers",c);
 getch();
 }
-'''
+```
 
 
 
