@@ -20,6 +20,8 @@ this repo contain online web design course using reactjs
     [Google](http://www.google.com/)
     ![book](!![book1](https://user-images.githubusercontent.com/85487323/121005220-38bb4a00-c7ad-11eb-9ed9-da51fb39d553.jpg)
 
+Customer name|Number
+---------------------
+Nandru Navya |96032698784
 
-)
   
